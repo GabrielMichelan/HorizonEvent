@@ -4,7 +4,7 @@ Este projeto consiste em ser uma aplicação que centralize eventos de outras si
 
 ## Descrição
 
-Fiquei muito feliz essa atividade que eu desempenhei, e sendo assim fui capaz de contribuir na criação de um projeto acadêmico. Através do Robot Framework, criei uma automação de coleta de dados em que absorve determinadas informações presentes em alguns sites de eventos, e logo após envia essas informações via API para uma nova aplicação que foi desenvolvida para que todos esses eventos fiquem centralizados em um só lugar. 
+Fiquei muito feliz com essa atividade que eu desempenhei, e sendo assim fui capaz de contribuir na criação de um projeto acadêmico. Através do Robot Framework, criei uma automação de coleta de dados em que absorve determinadas informações presentes em alguns sites de eventos, e logo após envia essas informações via API para uma nova aplicação que foi desenvolvida para que todos esses eventos fiquem centralizados em um só lugar. 
 É uma aplicação que tem o objetivo de recomendar eventos para o usuário, eventos que são filtrados através de pesquisas automatizadas que tive a oportunidade de implementar.
 
 
