@@ -1,4 +1,4 @@
-# Bem-vindo ao Projeto HorizonEvent
+# Bem-vindo ao Projeto Horizon Event
 
 Este projeto consiste em ser uma aplicação que centralize eventos de outras sites propícios de eventos para um só lugar.
 
@@ -12,8 +12,8 @@ Fiquei muito feliz essa atividade que eu desempenhei, e sendo assim fui capaz de
 
 Confira o projeto:
 
-- [Horizon Web](https://github.com/lipiw/horizon-final): Projeto HorizonEvent versão web.
-- [Horizon Mobile](https://github.com/izauir/EventHorizon): Projeto HorizonEvent versão mobile.
+- [Horizon Web](https://github.com/lipiw/horizon-final): Projeto Horizon Event versão web.
+- [Horizon Mobile](https://github.com/izauir/EventHorizon): Projeto Horizon Event versão mobile.
 
 ---
 
