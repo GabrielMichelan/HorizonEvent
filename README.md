@@ -12,8 +12,8 @@ Fiquei muito feliz essa atividade que eu desempenhei, e sendo assim fui capaz de
 
 Confira o projeto:
 
-- [Projeto XYZ](https://github.com/lipiw/horizon-final): Projeto HorizonEvent versão web.
-- [Projeto XYZ](https://github.com/izauir/EventHorizon): Projeto HorizonEvent versão mobile.
+- [Horizon Web](https://github.com/lipiw/horizon-final): Projeto HorizonEvent versão web.
+- [Horizon Mobile](https://github.com/izauir/EventHorizon): Projeto HorizonEvent versão mobile.
 
 ---
 
