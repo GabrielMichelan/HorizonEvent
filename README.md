@@ -15,7 +15,7 @@ Confira o projeto:
 - [Horizon Web](https://github.com/lipiw/horizon-final): Projeto Horizon Event versão web.
 - [Horizon Mobile](https://github.com/izauir/EventHorizon): Projeto Horizon Event versão mobile.
 - [API](http://github.com/OtavioBeividas/pjpw2.0): API Horizon Event.
-- [Documento](https://drive.google.com/file/d/1aw7LSq6pr5w51C6Jq0qekx0_QJvjGoRI/view?usp=drive_link): Documento Horizon Event.
+- [Documento](): Documento Horizon Event.
 
 ---
 
